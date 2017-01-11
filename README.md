@@ -1,1 +1,1 @@
-# uatplatanisiotis.azurewebsites.net
+# www.platanisiotis.com
